@@ -39,8 +39,7 @@ The graph view follows the flow shown in the image below.
 
 2. The code is inspired by Udacity Data Engineering with AWS Nanodegree Program.
 
-3. For the SQL queries in this project, it is based on my prior project [sparkify-data-warehouse
-Public](https://github.com/dhuy237/sparkify-data-warehouse).
+3. For the SQL queries in this project, it is based on my prior project [sparkify-data-warehouse](https://github.com/dhuy237/sparkify-data-warehouse).
 
 ## :hammer: Contributing
 
