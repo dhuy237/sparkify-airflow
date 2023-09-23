@@ -3,7 +3,7 @@ import pendulum
 import os
 from airflow.decorators import dag
 from airflow.operators.dummy_operator import DummyOperator
-from plugins.operators import (StageToRedshiftOperator, LoadFactOperator, LoadDimensionOperator, DataQualityOperator)
+from ..plugins.operators import (StageToRedshiftOperator, LoadFactOperator, LoadDimensionOperator, DataQualityOperator)
 
 
 default_args = {
